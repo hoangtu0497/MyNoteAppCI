@@ -37,6 +37,7 @@ android {
         //     keyAlias = "androiddebugkey"
         //     keyPassword = "android"
         // }
+        // a
 
         create("release") {
             keyAlias = System.getenv("KEY_ALIAS").takeUnless { it.isNullOrBlank() }
