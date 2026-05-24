@@ -16,6 +16,8 @@ androidx-junit = "1.2.1"
 androidx-test-runner = "1.6.2"
 ksp="2.1.0-1.0.29"
 mockk = "1.13.8"
+googlePlayServicesPlugin = "4.4.4"
+firebaseAppdistributionPlugin = "5.2.1"
 
 
 [libraries]
@@ -43,3 +45,5 @@ ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
 jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "jetbrainsKotlinJvm" }
 java-library = { id = "java-library" }
 android-library = { id = "com.android.library", version.ref = "agp" }
+gms = { id = "com.google.gms.google-services", version.ref = "googlePlayServicesPlugin" }
+firebase-appdistribution = { id = "com.google.firebase.appdistribution", version.ref = "firebaseAppdistributionPlugin" }
