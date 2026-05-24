@@ -16,7 +16,7 @@ You can find it inside the `RealNoteRepository` class.
 
 ## ⚠️ Known Limitation
 There's a minor issue with the scrollable views in the **Add/Edit Note** screens. If the user enters a large amount of text into the text fields, the view doesn't automatically scroll to keep up. Manual scrolling is still possible, and all functionalities remain accessible.<br>
-I was running out of time so I will leave this as a limitation, though you should be able to use all the functionalities just fine.
+I was running out of time, I will leave this as a limitation, though you should be able to use all the functionalities just fine.
 
 Again, thanks for your time and feedback.
 
