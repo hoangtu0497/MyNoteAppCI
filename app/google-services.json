@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555077899384",
+    "project_id": "mynoteappci-2588d",
+    "storage_bucket": "mynoteappci-2588d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555077899384:android:9ac8acd6455bf6f595498d",
+        "android_client_info": {
+          "package_name": "com.torilab.assignment.mynoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMDK0vpqxVZwRIst7dXidgl3yWznfXWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
