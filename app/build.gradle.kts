@@ -38,6 +38,7 @@ android {
         //     keyPassword = "android"
         // }
         // a
+        // b
 
         create("release") {
             keyAlias = System.getenv("KEY_ALIAS").takeUnless { it.isNullOrBlank() }
