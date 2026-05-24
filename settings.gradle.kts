@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyNoteApp"
+rootProject.name = "MyNoteAppCI"
 include(":app")
 include(":viewmodel")
 include(":note-component")
